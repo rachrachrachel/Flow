@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+.background{background-color:#F2EEEE;
+	        margin-top:0px;
+            margin-left:23px; 
+            margin-right:10px;
+margin:24px;}
+
+.galeria{
+	background-color: darkgray;
+	width:20%;
+	float:right;
+	height:5em;
+	margin-right: 61px;
+	margin-left: 10px;
+	margin-top:20px;
+}
+
+.galeria2{
+	background-color: darkgray;
+	width:20%;
+	float:right;
+	height: 5em;
+	margin-right: 61px;
+	margin-top:20px;
+	margin-left: 10px;
+	
+}
+
+.galeria3{
+	background-color: darkgray;
+	width:20%;
+	float:right;
+	height:5em;
+	margin-right: 61px;
+	margin-top:20px;
+	margin-left: 10px;
+}
+
+.galeria4{
+	background-color: darkgray;
+	width:20%;
+	float:right;
+	height: 5em;
+	margin-right: 61px;
+	margin-top:20px;
+	margin-left: 10px;
+}
+.logo{
+	background-color:dimgray;
+	width:80px;
+	height:40px;
+	float:left;
+	width:45%;
+	margin-bottom:10px;
+	margin-right:20;
+	margin-left:28px;
+	text-align: center;
+}
+.box1{
+		background-color: darkgray;
+	width:30%;
+	float:left;
+	height: 7em;
+	margin-right: 10px;
+	margin-top:23px;
+	margin-left: 23px;	
+}
+.footer{
+       	background-color: darkgray;
+	width:94.1%;
+	float:left;
+	height: 3em;
+	margin-right: 10px;
+	margin-top:23px;
+	margin-left: 23px;		
+}
